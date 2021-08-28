@@ -35,9 +35,14 @@ button {
     outline: none;
 }
 
-.all-clear, .zero-btn {
+.all-clear {
+    width: 75%;
+}
+
+.zero-btn {
     width: 50%;
 }
+
 
 .operator, .equal-sign {
     background-color: rgb(221, 125, 15);
